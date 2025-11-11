@@ -1,12 +1,12 @@
 **Ссылки на дашборды в Yandex Datalens и Superset**
 
-[Дашборд по продаже медицинских пробирок](https://datalens.ru/7ndhd7iwuk6mt)
+[Продажа медицинских пробирок](https://datalens.ru/7ndhd7iwuk6mt)
 
-[Дашборд конференций TED](https://datalens.ru/7ndhd7iwuk6mt)
+[Конференции TED](https://datalens.ru/7ndhd7iwuk6mt)
 
 [Расчет метрик сервиса доставки еды](https://datalens.ru/54tz3jlk34aar)
 
-[Дашборд работы страховой компании](https://datalens.ru/es79r0k9ksa00)
+[Работа страховой компании](https://datalens.ru/es79r0k9ksa00)
 
 [Анализ работы приложения](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/LBbGRRQgGqk/)
 
