@@ -2,8 +2,6 @@
 
 [Продажа медицинских пробирок](https://datalens.ru/7ndhd7iwuk6mt)
 
-[Конференции TED](https://datalens.ru/gyqia6popaie3)
-
 [Расчет метрик сервиса доставки еды](https://datalens.ru/54tz3jlk34aar)
 
 [Работа страховой компании](https://datalens.ru/es79r0k9ksa00)
