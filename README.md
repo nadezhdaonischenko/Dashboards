@@ -6,7 +6,7 @@
 
 [Продажа медицинских пробирок](https://datalens.yandex/7ndhd7iwuk6mt)
 
-[Расчет метрик сервиса доставки еды](https://datalens.ru/54tz3jlk34aar)
+[Расчет метрик сервиса доставки еды](https://datalens.yandex/54tz3jlk34aar)
 
 [Работа страховой компании](https://datalens.ru/es79r0k9ksa00)
 
