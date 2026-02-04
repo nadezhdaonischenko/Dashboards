@@ -10,10 +10,12 @@
 
 [Работа страховой компании](https://datalens.yandex/es79r0k9ksa00)
 
-[Анализ работы приложения](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/LBbGRRQgGqk/)
+[Анализ работы приложения*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/LBbGRRQgGqk/)
 
-[Тренды на рынке игр](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/nEGoelLbKD6/)
+[Тренды на рынке игр*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/nEGoelLbKD6/)
 
-[Аналитический дашборд по e-commerce](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/5Vo8WWBY8bZ/)
+[Аналитический дашборд по e-commerce*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/5Vo8WWBY8bZ/)
 
-[Анализ продаж маркетплейса](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/0XZ8nQzvK3x/)
+[Анализ продаж маркетплейса*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/0XZ8nQzvK3x/)
+
+*просмотр при наличии регистрации в программе, в случае отсутствия снимки дашбордов представлены в описаниях
