@@ -4,7 +4,7 @@
 
 **Ссылки на дашборды:**
 
-[Продажа медицинских пробирок](https://datalens.ru/7ndhd7iwuk6mt)
+[Продажа медицинских пробирок]([https://datalens.ru/7ndhd7iwuk6mt](https://datalens.yandex/7ndhd7iwuk6mt))
 
 [Расчет метрик сервиса доставки еды](https://datalens.ru/54tz3jlk34aar)
 
