@@ -8,7 +8,7 @@
 
 [Расчет метрик сервиса доставки еды](https://datalens.yandex/54tz3jlk34aar)
 
-[Работа страховой компании](https://datalens.ru/es79r0k9ksa00)
+[Работа страховой компании](https://datalens.yandex/es79r0k9ksa00)
 
 [Анализ работы приложения](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/LBbGRRQgGqk/)
 
