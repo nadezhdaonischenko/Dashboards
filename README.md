@@ -1,21 +1,34 @@
-Данный **репозиторий** содержит работы по созданию **интерактивных дашбордов** в системах Яндекс.Даталенс и Apache Superset. 
-В нем представлены визуализации и аналитические отчёты по различным тематикам, разработанные для поддержки бизнес-аналитики и принятия управленческих решений. 
-Эти инструменты позволяют быстро получать ценные инсайты и следить за ключевыми метриками в реальном времени.
+# 📊 BI Analytics Portfolio: Dashboards & Insights
 
-**Ссылки на дашборды:**
+Репозиторий объединяет проекты по созданию **интерактивных дашбордов**, реализованные в экосистемах **Yandex DataLens** и **Apache Superset**. 
 
-[Продажа медицинских пробирок](https://datalens.yandex/7ndhd7iwuk6mt)
+Представленные отчеты ориентированы на поддержку бизнес-аналитики (BI) и принятие управленческих решений на основе данных. Инструменты позволяют отслеживать ключевые метрики в реальном времени и находить ценные инсайты для развития продукта.
 
-[Расчет метрик сервиса доставки еды (пользователи)](https://datalens.yandex/54tz3jlk34aar)
+---
 
-[Работа страховой компании](https://datalens.yandex/es79r0k9ksa00)
+## 🚀 Ссылки на дашборды
 
-[Анализ работы приложения*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/LBbGRRQgGqk/)
+### 🟡 Yandex DataLens
+*Интерактивные отчеты, доступные по прямым ссылкам:*
 
-[Тренды на рынке игр*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/nEGoelLbKD6/)
+*   [📦 **Продажа медицинских пробирок**](https://datalens.yandex/7ndhd7iwuk6mt) — Анализ сбыта, динамика отгрузок и работа с клиентами.
+*   [🚴 **Метрики сервиса доставки еды**](https://datalens.yandex/54tz3jlk34aar) — Анализ пользовательского поведения (MAU/WAU), Retention и продуктовые метрики.
+*   [🛡️ **Работа страховой компании**](https://datalens.yandex/es79r0k9ksa00) — Портфельный анализ, расчет страховых премий и выплат.
 
-[Аналитический дашборд по e-commerce*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/5Vo8WWBY8bZ/)
+### 🔴 Apache Superset
+*Доступ к дашбордам требует авторизации в программе. Если у вас нет учетных записей, скриншоты визуализаций доступны в папках соотвествтующих проектов.
 
-[Анализ продаж маркетплейса*](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/0XZ8nQzvK3x/)
+*   [📱 **Анализ работы приложения**](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/LBbGRRQgGqk/)
+*   [🎮 **Тренды на рынке игр**](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/nEGoelLbKD6/)
+*   [🛒 **E-commerce аналитика**](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/5Vo8WWBY8bZ/)
+*   [🛍️ **Продажи маркетплейса**](https://superset.bi-analysts.education-services.ru/superset/dashboard/p/0XZ8nQzvK3x/)
 
-*просмотр при наличии регистрации в программе, в случае отсутствия снимки дашбордов представлены в описаниях
+---
+
+## 🛠 Технологический стек
+* **Визуализация:** Yandex DataLens, Apache Superset.
+* **Аналитика:**
+    📉 Временные ряды: Визуализация динамики показателей и выявление трендов.
+    👥 Пользовательский опыт: Анализ удержания (Retention) и жизненного цикла клиента (LTV).
+    🗺 Гео-аналитика: Пространственное распределение продаж и активности по регионам.
+    🎯 Воронки: Анализ конверсии на каждом этапе бизнес-процесса.
